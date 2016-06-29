@@ -1,7 +1,15 @@
 # Java-note
 Record my learning process.
-Java命名规范：
-
+Java 命名规范：
+1
+  Package 的命名
+    Package的名字应该都是由一个小写单词组成。
+  Class 的命名
+    Class 的名字必须由大写字母开头而其他字母都小写的单词组成。
+  Class 变量的命名
+    变量的名字必须用一个小写字母开头。后面的单词用大写字母开头。
+  Static Final 变量的命名
+    Static Final 变量的名字应该都大写，并且指出完整含义。
 1 
   Package 的命名
 　　Package 的名字应该都是由一个小写单词组成。
